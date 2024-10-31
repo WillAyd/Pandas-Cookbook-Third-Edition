@@ -47,7 +47,7 @@ python -m pip install pandas numpy pyarrow notebook
 ### Running a Jupyter notebook 💻
 The suggested method to work through the content of this book is to have a Jupyter notebook up and running so that you can run the code while reading through the recipes.  Following along on your computer allows you to go off exploring on your own and gain a deeper understanding than by just reading the book alone.
 
-After installing Jupyter notebook, open a Command Prompt (type `cmd` at the search bar on Windows, or open Terminal on Mac or Linux) and type:
+After installing Jupyter notebook, open a terminal (type `cmd` at the search bar on Windows, or open Terminal on Mac or Linux), navigate to the directory where this repository is cloned, and type:
 ```bash
 jupyter notebook
 ```
